@@ -1,2 +1,2 @@
-1 $ build.gradle
+1 #build.gradle
 amp-ai-clipboard
