@@ -1,2 +1,2 @@
 1 #build.gradle
-amp-ai-clipboard
+amp-ai-clipboard-torbalds-linux
